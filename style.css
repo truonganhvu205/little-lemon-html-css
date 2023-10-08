@@ -89,6 +89,7 @@ li a {
 
 .content_one img {
     width: 400px;
+    height: 250px;
     margin: 1rem;
 }
 
@@ -113,6 +114,7 @@ li a {
 
 .content_two img {
     width: 400px;
+    height: 250px;
     margin: 1rem;
 }
 
@@ -135,6 +137,7 @@ li a {
 
 .content_three img {
     width: 400px;
+    height: 250px;
     margin: 1rem;
 }
 
@@ -144,6 +147,16 @@ li a {
 
 .content_three div {
     margin: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.content_three div ul {
+    list-style-type: none;
+}
+
+.content_three div ul li {
+    line-height: 20%;
 }
 
 footer {
