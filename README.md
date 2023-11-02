@@ -1,5 +1,5 @@
 <table align='center'>
-  <tr>
+  <tr align='center'>
     <td>First Screen Page</td>
     <td>Second Screen Page</td>
   </tr>
