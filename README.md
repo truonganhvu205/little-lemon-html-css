@@ -1,7 +1,7 @@
 <table align='center'>
   <tr align='center'>
-    <td>Little Lemon - First screen page</td>
-    <td>Little Lemon - Second screen page</td>
+    <td>First screen page</td>
+    <td>Second screen page</td>
   </tr>
   <tr align='center'>
     <td>
