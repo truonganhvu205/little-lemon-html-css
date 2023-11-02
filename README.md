@@ -1,4 +1,4 @@
-<table>
+<table align='center'>
   <tr>
     <td>First Screen Page</td>
     <td>Second Screen Page</td>
