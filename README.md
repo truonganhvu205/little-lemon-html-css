@@ -1,3 +1,9 @@
+```bash
+git init
+git clone https://github.com/truonganhvu205/little-lemon.git
+cd little-lemon
+```
+
 <table align='center'>
   <tr align='center'>
     <td>First screen page</td>
