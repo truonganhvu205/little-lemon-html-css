@@ -8,8 +8,8 @@ cd little-lemon-html-css
 # Preview project
 <table align='center'>
   <tr align='center'>
-    <td>View one</td>
-    <td>View two</td>
+    <td>Page up</td>
+    <td>Page down</td>
   </tr>
   <tr align='center'>
     <td>
