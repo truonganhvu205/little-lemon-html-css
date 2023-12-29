@@ -1,8 +1,8 @@
 # Clone project
 ```bash
 git init
-git clone https://github.com/truonganhvu205/little-lemon.git
-cd little-lemon
+git clone https://github.com/truonganhvu205/little-lemon-html-css.git
+cd little-lemon-html-css
 ```
 
 # Preview project
