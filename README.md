@@ -5,10 +5,11 @@ git clone https://github.com/truonganhvu205/little-lemon.git
 cd little-lemon
 ```
 
+# Preview project
 <table align='center'>
   <tr align='center'>
-    <td>First screen page</td>
-    <td>Second screen page</td>
+    <td>View one</td>
+    <td>View two</td>
   </tr>
   <tr align='center'>
     <td>
@@ -19,4 +20,3 @@ cd little-lemon
     </td>
   </tr>
  </table>
- 
