@@ -98,6 +98,10 @@ article ul {
     list-style: none;
 }
 
+article div {
+    margin-bottom: 1rem;
+}
+
 main article {
     border: 1px solid #EDEFEE;
     padding-left: 1rem;
@@ -118,8 +122,9 @@ main article {
 
 #hero p {
     font-size: 1.2rem;
-    margin: 0;
     text-shadow: 2px 2px 4px #333333;
+    /* margin: 0; */
+    margin-bottom: 1rem;
 }
 
 footer {
