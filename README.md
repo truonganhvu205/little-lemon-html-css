@@ -13,10 +13,10 @@ cd little-lemon-html-css
   </tr>
   <tr align='center'>
     <td>
-      <img src='https://github.com/truonganhvu205/little-lemon/blob/main/little-lemon-html-css/little-lemon-html-css-pic-1.png' />
+      <img src='https://github.com/truonganhvu205/little-lemon-html-css/blob/main/little-lemon-html-css/little-lemon-html-css-pic-1.png' />
     </td>
     <td>
-      <img src='https://github.com/truonganhvu205/little-lemon/blob/main/little-lemon-html-css/little-lemon-html-css-pic-2.png' />
+      <img src='https://github.com/truonganhvu205/little-lemon-html-css/blob/main/little-lemon-html-css/little-lemon-html-css-pic-2.png' />
     </td>
   </tr>
  </table>
